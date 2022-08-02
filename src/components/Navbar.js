@@ -6,7 +6,7 @@ import {
 function Navbar() {
   return (
     <nav>
-      <h1>Math Magicians</h1>
+      <h1>Awesome Math Magicians</h1>
       <div className="nav">
         <Link to="/">Home</Link>
         <Link to="/quotes">Quotes</Link>

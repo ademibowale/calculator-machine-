@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians App
+# Awesome Math Magicians App
 
 >Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations, App also display random math-related quote..
 
@@ -9,10 +9,6 @@
 
 - React
 
-## Live Demo
-- Netlify [live demo](https://melodious-toffee-2c949d.netlify.app/)
-- Heroku [live Demo](https://abdulhamid-react-calculator.herokuapp.com/quotes)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -20,7 +16,7 @@ To get a local copy up and running follow these simple example steps.
 ### Clone this repository
 
 ```
-https://github.com/abdulhamiid/calculator.git
+https://github.com/ademibowale/calculator-machine-.git
 ```
 ***This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).***
 
@@ -40,17 +36,15 @@ The page will reload when you make changes.\
 
 ## Author
 
-👤 **Abdulhamid**
+👤 **ADEBOWALE ADEGBOYE**
 
-- GitHub: [@githubhandle](https://github.com/abdulhamiid)
-- Twitter: [@twitterhandle](https://twitter.com/abdulhamid_adio)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulhamid-adio-b0b343223)
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/abdulhamiid/calculator/issues).
 
 ## Show your support
 

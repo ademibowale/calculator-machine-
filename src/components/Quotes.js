@@ -14,8 +14,8 @@ const quotes = [
   },
   {
     id: 3,
-    title: 'Arithmetic is being able to count up to twenty without taking off your shoes.',
-    author: 'Mickey Mouse',
+    title: 'Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers..',
+    author: ' Shakuntala Devi, Indian writer and mental calculator',
   },
   {
     id: 4,
@@ -24,12 +24,12 @@ const quotes = [
   },
   {
     id: 5,
-    title: 'Life is a math equation. In order to gain the most, you have to know how to convert negatives into positives.',
+    title: 'Life is a math equation.to gain the most, you have to know how to convert negatives into positives.',
     author: 'Anonymous',
   },
   {
     id: 6,
-    title: 'Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.',
+    title: 'Without mathematics,there’s nothing you can do.Everything around you is mathematics.',
     author: 'Shakuntala Devi',
   },
   {
@@ -39,13 +39,13 @@ const quotes = [
   },
   {
     id: 8,
-    title: 'Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.',
+    title: 'I hope that seeing the excitement of solving this problem will make mathematicians realize that there are lots and lots of other problems in mathematics which are going to be just as challenging in the future..',
     author: 'William Paul Thurston',
   },
   {
     id: 9,
-    title: 'Mathematics is a language.',
-    author: 'Josiah Willard Gibbs',
+    title: 'Mathematics may not teach us to add love or subtract hate,but gives hope that every problem has a solution.',
+    author: '— Anonymous',
   },
   {
     id: 10,
@@ -53,7 +53,6 @@ const quotes = [
     author: 'Andrew',
   },
 ];
-
 function Quotes() {
   const index = Math.floor(Math.random() * 10);
   return (
