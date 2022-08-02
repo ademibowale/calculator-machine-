@@ -2,8 +2,7 @@
 
 # Awesome Math Magicians App
 
->Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations, App also display random math-related quote..
-
+>Awesome Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations, App also display random math-related quote..
 
 ## Built With
 
