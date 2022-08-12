@@ -18,7 +18,7 @@ export const Calculator = () => {
   return (
     <div>
       <Navbar />
-      <h2 id="calc-title">Let us do some Maths!</h2>
+      <h2 id="calc-title">Let us do some Maths Magic!</h2>
       <div id="calc-body">
         <form>
           <input value={(total || '') + (operation || '') + (next || '')} onChange={(e) => handleClick(e)} />

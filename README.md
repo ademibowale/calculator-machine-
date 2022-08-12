@@ -41,6 +41,12 @@ The page will reload when you make changes.\
 - Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
+👤 **Author2**
+
+- GitHub: [@rotshidzw](https://github.com/rotshidzw)
+- Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
+- LinkedIn: [rotshidzwa mavhungu](https://www.linkedin.com/in/rochidzwa-chester-8062b6211/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
